@@ -50,11 +50,6 @@ print(config.has_option("URL", "dev_base_url"))
 
 
 
-# 路径处理：
-
-# config_path = os.path.split(os.path.realpath(__file__))[0] + os.sep + "config.ini"
-# print(config_path)
-
 
 
 
